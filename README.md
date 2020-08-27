@@ -12,6 +12,7 @@
 ![JavaScript](https://img.shields.io/badge/-JavaScript-232323?style=flat-square&logo=JavaScript&logoColor=F7DF1E)
 ![jQuery](https://img.shields.io/badge/-jQuery-0769AD?style=flat-square&logo=jQuery)
 ![Linux](https://img.shields.io/badge/-Linux-232323?style=flat-square&logo=Linux&logoColor=FCC624)
+![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=Git&logoColor=white)
 ![Adobe Photoshop](https://img.shields.io/badge/-Photoshop-31A8FF?style=flat-square&logo=Adobe-Photoshop&logoColor=white)
 ![Adobe Lightroom](https://img.shields.io/badge/-Lightroom-31A8FF?style=flat-square&logo=Adobe-Lightroom-CC&logoColor=white)
 ![Adobe XD](https://img.shields.io/badge/-XD-FF26BE?style=flat-square&logo=Adobe-XD&logoColor=white)
